@@ -1,0 +1,235 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 05 Jun 2024 21:36:01 at https://www.careercomfort.co.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.careercomfort.co.in/ -O1 "D:\Mukesh\jobportalnew" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:36:42	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.careercomfort.co.in/wp-content/uploads/redux/custom-fonts/fonts.css?ver=1717603562
+21:36:52	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/new/wp-content/uploads/2021/10/new-i-4.png (from https://www.careercomfort.co.in/)
+21:36:52	Warning: 	Retry after error 409 (Conflict) at link https://www.careercomfort.co.in/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.3 (from https://www.careercomfort.co.in/)
+21:36:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.careercomfort.co.in/wp-content/plugins/rselements/assets/css/bootstrap.min.css?ver=6.5.3 (from https://www.careercomfort.co.in/)
+21:37:28	Warning: 	Retry after error 409 (Conflict) at link https://www.careercomfort.co.in/xmlrpc.php?rsd (from https://www.careercomfort.co.in/)
+21:37:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.careercomfort.co.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careercomfort.co.in%2F&format=xml (from https://www.careercomfort.co.in/)
+21:37:34	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.careercomfort.co.in/wp-content/uploads/redux/custom-fonts/fonts.css?ver=1717603575
+21:37:54	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.careercomfort.co.in/wp-content/uploads/redux/custom-fonts/fonts.css?ver=1717603578
+21:37:55	Warning: 	Retry after error 409 (Conflict) at link https://www.careercomfort.co.in/contact/ (from https://www.careercomfort.co.in/)
+21:38:02	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.careercomfort.co.in/wp-content/uploads/redux/custom-fonts/fonts.css?ver=1717603579
+21:38:34	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.careercomfort.co.in/wp-content/uploads/redux/custom-fonts/fonts.css?ver=1717603594
+21:39:11	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.careercomfort.co.in/wp-content/uploads/redux/custom-fonts/fonts.css?ver=1717603595
+21:39:35	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.careercomfort.co.in/wp-content/uploads/redux/custom-fonts/fonts.css?ver=1717603599
+21:39:35	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/POST (from https://www.careercomfort.co.in/)
+21:39:39	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.careercomfort.co.in/wp-content/uploads/redux/custom-fonts/fonts.css?ver=1717603601
+21:39:42	Warning: 	Retry after error 409 (Conflict) at link https://www.careercomfort.co.in/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.3 (from https://www.careercomfort.co.in/)
+21:39:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.careercomfort.co.in/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.3 (from https://www.careercomfort.co.in/)
+21:39:42	Warning: 	Retry after error 409 (Conflict) at link https://www.careercomfort.co.in/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.9.3 (from https://www.careercomfort.co.in/)
+21:39:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.careercomfort.co.in/wp-content/plugins/master-addons/assets/js/plugins.js?ver=2.0.6.2 (from https://www.careercomfort.co.in/)
+21:39:43	Warning: 	Retry after error 409 (Conflict) at link https://www.careercomfort.co.in/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.3 (from https://www.careercomfort.co.in/)
+21:39:44	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/wp-content/plugins/rselements/assets/css/fonts/slick.eot (from https://www.careercomfort.co.in/wp-content/plugins/rselements/assets/css/slick-theme.css?ver=6.5.3)
+21:39:44	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/wp-content/plugins/rselements/assets/css/fonts/slick.eot? (from https://www.careercomfort.co.in/wp-content/plugins/rselements/assets/css/slick-theme.css?ver=6.5.3)
+21:39:44	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/wp-content/plugins/rselements/assets/css/fonts/slick.svg (from https://www.careercomfort.co.in/wp-content/plugins/rselements/assets/css/slick-theme.css?ver=6.5.3)
+21:39:46	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/wp-content/themes/braintech/assets/css/Flaticon.svg (from https://www.careercomfort.co.in/wp-content/themes/braintech/assets/css/flaticon.css?ver=6.5.3)
+21:39:46	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/wp-content/themes/braintech/assets/css/owl.video.play.png (from https://www.careercomfort.co.in/wp-content/themes/braintech/assets/css/owl.carousel.css?ver=6.5.3)
+21:39:46	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/wp-content/themes/braintech/assets/images/about-overlay-l.png (from https://www.careercomfort.co.in/wp-content/themes/braintech/assets/css/default.css?ver=6.5.3)
+21:39:46	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/wp-content/themes/braintech/assets/images/about-overlay-r.png (from https://www.careercomfort.co.in/wp-content/themes/braintech/assets/css/default.css?ver=6.5.3)
+21:39:47	Warning: 	Retry after error 409 (Conflict) at link https://www.careercomfort.co.in/xmlrpc.php?rsd (from https://www.careercomfort.co.in/)
+21:39:47	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=12164
+21:39:47	Warning: 	File has moved from https://www.careercomfort.co.in/?p=12164 to https://www.careercomfort.co.in/about/
+21:39:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.careercomfort.co.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careercomfort.co.in%2Fabout%2F (from https://www.careercomfort.co.in/about/)
+21:39:47	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/about/POST (from https://www.careercomfort.co.in/about/)
+21:39:47	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/all-services/e,baseURI (from https://www.careercomfort.co.in/all-services/)
+21:39:47	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/all-services/GET (from https://www.careercomfort.co.in/all-services/)
+21:39:47	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/all-services/Edge/ (from https://www.careercomfort.co.in/all-services/)
+21:39:47	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=20454
+21:39:47	Warning: 	File has moved from https://www.careercomfort.co.in/?p=20454 to https://www.careercomfort.co.in/all-services/
+21:39:47	Warning: 	Retry after error 409 (Conflict) at link https://www.careercomfort.co.in/xmlrpc.php (from https://www.careercomfort.co.in/all-services/)
+21:39:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.careercomfort.co.in/all-services/"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==" (from https://www.careercomfort.co.in/all-services/)
+21:39:48	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/all-services/POST (from https://www.careercomfort.co.in/all-services/)
+21:39:55	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/jobs/e,baseURI (from https://www.careercomfort.co.in/jobs/)
+21:39:55	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/jobs/GET (from https://www.careercomfort.co.in/jobs/)
+21:39:55	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/jobs/Edge/ (from https://www.careercomfort.co.in/jobs/)
+21:39:55	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=20577
+21:39:55	Warning: 	File has moved from https://www.careercomfort.co.in/?p=20577 to https://www.careercomfort.co.in/jobs/
+21:39:55	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/jobs/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/jobs/)
+21:39:55	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/jobs/POST (from https://www.careercomfort.co.in/jobs/)
+21:39:57	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=13202
+21:39:57	Warning: 	File has moved from https://www.careercomfort.co.in/?p=13202 to https://www.careercomfort.co.in/faqs/
+21:39:57	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/faqs/POST (from https://www.careercomfort.co.in/faqs/)
+21:39:57	Warning: 	Retry after error 409 (Conflict) at link https://www.careercomfort.co.in/contact/ (from https://www.careercomfort.co.in/)
+21:39:57	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=23064
+21:39:57	Warning: 	File has moved from https://www.careercomfort.co.in/?p=23064 to https://www.careercomfort.co.in/job-seeker-form/
+21:39:57	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/job-seeker-form/POST (from https://www.careercomfort.co.in/job-seeker-form/)
+21:39:57	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/looking-for-candidates/e,baseURI (from https://www.careercomfort.co.in/looking-for-candidates/)
+21:39:57	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/looking-for-candidates/GET (from https://www.careercomfort.co.in/looking-for-candidates/)
+21:39:57	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/looking-for-candidates/Edge/ (from https://www.careercomfort.co.in/looking-for-candidates/)
+21:39:57	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=20799
+21:39:57	Warning: 	File has moved from https://www.careercomfort.co.in/?p=20799 to https://www.careercomfort.co.in/looking-for-candidates/
+21:39:57	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/looking-for-candidates/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/looking-for-candidates/)
+21:39:57	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/looking-for-candidates/POST (from https://www.careercomfort.co.in/looking-for-candidates/)
+21:39:57	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/sql-developer/e,baseURI (from https://www.careercomfort.co.in/portfolio/sql-developer/)
+21:39:57	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/sql-developer/GET (from https://www.careercomfort.co.in/portfolio/sql-developer/)
+21:39:57	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/sql-developer/Edge/ (from https://www.careercomfort.co.in/portfolio/sql-developer/)
+21:39:57	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=21753
+21:39:57	Warning: 	File has moved from https://www.careercomfort.co.in/?p=21753 to https://www.careercomfort.co.in/portfolio/sql-developer/
+21:39:57	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/sql-developer/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/portfolio/sql-developer/)
+21:39:57	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/sql-developer/POST (from https://www.careercomfort.co.in/portfolio/sql-developer/)
+21:39:58	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio-category/apply-now/e,baseURI (from https://www.careercomfort.co.in/portfolio-category/apply-now/)
+21:39:58	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio-category/apply-now/GET (from https://www.careercomfort.co.in/portfolio-category/apply-now/)
+21:39:58	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio-category/apply-now/Edge/ (from https://www.careercomfort.co.in/portfolio-category/apply-now/)
+21:39:59	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.careercomfort.co.in/wp-content/uploads/redux/custom-fonts/fonts.css?ver=1717603698
+21:40:03	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio-category/apply-now/POST (from https://www.careercomfort.co.in/portfolio-category/apply-now/)
+21:40:03	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio-category/apply-now/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/portfolio-category/apply-now/)
+21:40:03	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/work-from-home-job-for-recruiting-training-associate-rta/e,baseURI (from https://www.careercomfort.co.in/portfolio/work-from-home-job-for-recruiting-training-associate-rta/)
+21:40:03	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/work-from-home-job-for-recruiting-training-associate-rta/GET (from https://www.careercomfort.co.in/portfolio/work-from-home-job-for-recruiting-training-associate-rta/)
+21:40:03	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/work-from-home-job-for-recruiting-training-associate-rta/Edge/ (from https://www.careercomfort.co.in/portfolio/work-from-home-job-for-recruiting-training-associate-rta/)
+21:40:03	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=21743
+21:40:03	Warning: 	File has moved from https://www.careercomfort.co.in/?p=21743 to https://www.careercomfort.co.in/portfolio/work-from-home-job-for-recruiting-training-associate-rta/
+21:40:03	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/work-from-home-job-for-recruiting-training-associate-rta/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/portfolio/work-from-home-job-for-recruiting-training-associate-rta/)
+21:40:03	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/work-from-home-job-for-recruiting-training-associate-rta/POST (from https://www.careercomfort.co.in/portfolio/work-from-home-job-for-recruiting-training-associate-rta/)
+21:40:04	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/jobs-for-pharma/e,baseURI (from https://www.careercomfort.co.in/portfolio/jobs-for-pharma/)
+21:40:04	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/jobs-for-pharma/GET (from https://www.careercomfort.co.in/portfolio/jobs-for-pharma/)
+21:40:04	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/jobs-for-pharma/Edge/ (from https://www.careercomfort.co.in/portfolio/jobs-for-pharma/)
+21:40:04	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=21737
+21:40:04	Warning: 	File has moved from https://www.careercomfort.co.in/?p=21737 to https://www.careercomfort.co.in/portfolio/jobs-for-pharma/
+21:40:04	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/jobs-for-pharma/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/portfolio/jobs-for-pharma/)
+21:40:04	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/jobs-for-pharma/POST (from https://www.careercomfort.co.in/portfolio/jobs-for-pharma/)
+21:40:04	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=21254
+21:40:04	Warning: 	File has moved from https://www.careercomfort.co.in/?p=21254 to https://www.careercomfort.co.in/portfolio/business-development-executive/
+21:40:04	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/business-development-executive/POST (from https://www.careercomfort.co.in/portfolio/business-development-executive/)
+21:40:04	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/business-support-officer-bso/e,baseURI (from https://www.careercomfort.co.in/portfolio/business-support-officer-bso/)
+21:40:04	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/business-support-officer-bso/GET (from https://www.careercomfort.co.in/portfolio/business-support-officer-bso/)
+21:40:04	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/business-support-officer-bso/Edge/ (from https://www.careercomfort.co.in/portfolio/business-support-officer-bso/)
+21:40:04	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=20572
+21:40:04	Warning: 	File has moved from https://www.careercomfort.co.in/?p=20572 to https://www.careercomfort.co.in/portfolio/business-support-officer-bso/
+21:40:04	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/business-support-officer-bso/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/portfolio/business-support-officer-bso/)
+21:40:04	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/business-support-officer-bso/POST (from https://www.careercomfort.co.in/portfolio/business-support-officer-bso/)
+21:40:05	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/hr-recruiter/e,baseURI (from https://www.careercomfort.co.in/portfolio/hr-recruiter/)
+21:40:05	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/hr-recruiter/GET (from https://www.careercomfort.co.in/portfolio/hr-recruiter/)
+21:40:05	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/hr-recruiter/Edge/ (from https://www.careercomfort.co.in/portfolio/hr-recruiter/)
+21:40:05	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=20567
+21:40:05	Warning: 	File has moved from https://www.careercomfort.co.in/?p=20567 to https://www.careercomfort.co.in/portfolio/hr-recruiter/
+21:40:05	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/hr-recruiter/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/portfolio/hr-recruiter/)
+21:40:05	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/hr-recruiter/POST (from https://www.careercomfort.co.in/portfolio/hr-recruiter/)
+21:40:05	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/international-bpo-jobs/e,baseURI (from https://www.careercomfort.co.in/portfolio/international-bpo-jobs/)
+21:40:05	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/international-bpo-jobs/GET (from https://www.careercomfort.co.in/portfolio/international-bpo-jobs/)
+21:40:05	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/international-bpo-jobs/Edge/ (from https://www.careercomfort.co.in/portfolio/international-bpo-jobs/)
+21:40:05	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=20562
+21:40:05	Warning: 	File has moved from https://www.careercomfort.co.in/?p=20562 to https://www.careercomfort.co.in/portfolio/international-bpo-jobs/
+21:40:05	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/international-bpo-jobs/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/portfolio/international-bpo-jobs/)
+21:40:05	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/international-bpo-jobs/POST (from https://www.careercomfort.co.in/portfolio/international-bpo-jobs/)
+21:40:05	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/international-bpo-jobs-b2b/e,baseURI (from https://www.careercomfort.co.in/portfolio/international-bpo-jobs-b2b/)
+21:40:05	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/international-bpo-jobs-b2b/GET (from https://www.careercomfort.co.in/portfolio/international-bpo-jobs-b2b/)
+21:40:05	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/international-bpo-jobs-b2b/Edge/ (from https://www.careercomfort.co.in/portfolio/international-bpo-jobs-b2b/)
+21:40:05	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=20172
+21:40:05	Warning: 	File has moved from https://www.careercomfort.co.in/?p=20172 to https://www.careercomfort.co.in/portfolio/international-bpo-jobs-b2b/
+21:40:05	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/international-bpo-jobs-b2b/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/portfolio/international-bpo-jobs-b2b/)
+21:40:05	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/portfolio/international-bpo-jobs-b2b/POST (from https://www.careercomfort.co.in/portfolio/international-bpo-jobs-b2b/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco-2/e,baseURI (from https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco-2/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco-2/GET (from https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco-2/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco-2/Edge/ (from https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco-2/)
+21:40:06	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=19210
+21:40:06	Warning: 	File has moved from https://www.careercomfort.co.in/?p=19210 to https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco-2/
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco-2/POST (from https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco-2/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco-2/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco-2/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/tech-firms-support-huawei-restriction-balk-at-cost/e,baseURI (from https://www.careercomfort.co.in/tech-firms-support-huawei-restriction-balk-at-cost/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/tech-firms-support-huawei-restriction-balk-at-cost/GET (from https://www.careercomfort.co.in/tech-firms-support-huawei-restriction-balk-at-cost/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/tech-firms-support-huawei-restriction-balk-at-cost/Edge/ (from https://www.careercomfort.co.in/tech-firms-support-huawei-restriction-balk-at-cost/)
+21:40:06	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=11211
+21:40:06	Warning: 	File has moved from https://www.careercomfort.co.in/?p=11211 to https://www.careercomfort.co.in/tech-firms-support-huawei-restriction-balk-at-cost/
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/tech-firms-support-huawei-restriction-balk-at-cost/POST (from https://www.careercomfort.co.in/tech-firms-support-huawei-restriction-balk-at-cost/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/tech-firms-support-huawei-restriction-balk-at-cost/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/tech-firms-support-huawei-restriction-balk-at-cost/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco/e,baseURI (from https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco/GET (from https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco/Edge/ (from https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco/)
+21:40:06	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=11229
+21:40:06	Warning: 	File has moved from https://www.careercomfort.co.in/?p=11229 to https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco/
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco/POST (from https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/servo-project-joins-the-linux-foundation-fold-desco/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/open-source-job-report-show-more-openings-fewer/e,baseURI (from https://www.careercomfort.co.in/open-source-job-report-show-more-openings-fewer/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/open-source-job-report-show-more-openings-fewer/GET (from https://www.careercomfort.co.in/open-source-job-report-show-more-openings-fewer/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/open-source-job-report-show-more-openings-fewer/Edge/ (from https://www.careercomfort.co.in/open-source-job-report-show-more-openings-fewer/)
+21:40:06	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=11220
+21:40:06	Warning: 	File has moved from https://www.careercomfort.co.in/?p=11220 to https://www.careercomfort.co.in/open-source-job-report-show-more-openings-fewer/
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/open-source-job-report-show-more-openings-fewer/POST (from https://www.careercomfort.co.in/open-source-job-report-show-more-openings-fewer/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/open-source-job-report-show-more-openings-fewer/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/open-source-job-report-show-more-openings-fewer/)
+21:40:06	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=11217
+21:40:06	Warning: 	File has moved from https://www.careercomfort.co.in/?p=11217 to https://www.careercomfort.co.in/types-of-social-proof-what-its-makes-them-effective/
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/types-of-social-proof-what-its-makes-them-effective/POST (from https://www.careercomfort.co.in/types-of-social-proof-what-its-makes-them-effective/)
+21:40:06	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=11226
+21:40:06	Warning: 	File has moved from https://www.careercomfort.co.in/?p=11226 to https://www.careercomfort.co.in/necessity-may-give-us-your-virtual-court-system/
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/necessity-may-give-us-your-virtual-court-system/POST (from https://www.careercomfort.co.in/necessity-may-give-us-your-virtual-court-system/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/how-to-appear-for-an-interview-dos-dont-for-interview/e,baseURI (from https://www.careercomfort.co.in/how-to-appear-for-an-interview-dos-dont-for-interview/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/how-to-appear-for-an-interview-dos-dont-for-interview/GET (from https://www.careercomfort.co.in/how-to-appear-for-an-interview-dos-dont-for-interview/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/how-to-appear-for-an-interview-dos-dont-for-interview/Edge/ (from https://www.careercomfort.co.in/how-to-appear-for-an-interview-dos-dont-for-interview/)
+21:40:06	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=23271
+21:40:06	Warning: 	File has moved from https://www.careercomfort.co.in/?p=23271 to https://www.careercomfort.co.in/how-to-appear-for-an-interview-dos-dont-for-interview/
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/how-to-appear-for-an-interview-dos-dont-for-interview/POST (from https://www.careercomfort.co.in/how-to-appear-for-an-interview-dos-dont-for-interview/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/how-to-appear-for-an-interview-dos-dont-for-interview/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/how-to-appear-for-an-interview-dos-dont-for-interview/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/why-is-long-term-prospective-important-for-an-employee/e,baseURI (from https://www.careercomfort.co.in/why-is-long-term-prospective-important-for-an-employee/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/why-is-long-term-prospective-important-for-an-employee/GET (from https://www.careercomfort.co.in/why-is-long-term-prospective-important-for-an-employee/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/why-is-long-term-prospective-important-for-an-employee/Edge/ (from https://www.careercomfort.co.in/why-is-long-term-prospective-important-for-an-employee/)
+21:40:06	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=23285
+21:40:06	Warning: 	File has moved from https://www.careercomfort.co.in/?p=23285 to https://www.careercomfort.co.in/why-is-long-term-prospective-important-for-an-employee/
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/why-is-long-term-prospective-important-for-an-employee/POST (from https://www.careercomfort.co.in/why-is-long-term-prospective-important-for-an-employee/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/why-is-long-term-prospective-important-for-an-employee/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/why-is-long-term-prospective-important-for-an-employee/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/what-is-job-satisfaction-and-how-to-achieve-it/e,baseURI (from https://www.careercomfort.co.in/what-is-job-satisfaction-and-how-to-achieve-it/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/what-is-job-satisfaction-and-how-to-achieve-it/GET (from https://www.careercomfort.co.in/what-is-job-satisfaction-and-how-to-achieve-it/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/what-is-job-satisfaction-and-how-to-achieve-it/Edge/ (from https://www.careercomfort.co.in/what-is-job-satisfaction-and-how-to-achieve-it/)
+21:40:06	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=23282
+21:40:06	Warning: 	File has moved from https://www.careercomfort.co.in/?p=23282 to https://www.careercomfort.co.in/what-is-job-satisfaction-and-how-to-achieve-it/
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/what-is-job-satisfaction-and-how-to-achieve-it/POST (from https://www.careercomfort.co.in/what-is-job-satisfaction-and-how-to-achieve-it/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/what-is-job-satisfaction-and-how-to-achieve-it/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/what-is-job-satisfaction-and-how-to-achieve-it/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/how-to-make-your-work-life-balance/e,baseURI (from https://www.careercomfort.co.in/how-to-make-your-work-life-balance/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/how-to-make-your-work-life-balance/GET (from https://www.careercomfort.co.in/how-to-make-your-work-life-balance/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/how-to-make-your-work-life-balance/Edge/ (from https://www.careercomfort.co.in/how-to-make-your-work-life-balance/)
+21:40:06	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=23280
+21:40:06	Warning: 	File has moved from https://www.careercomfort.co.in/?p=23280 to https://www.careercomfort.co.in/how-to-make-your-work-life-balance/
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/how-to-make-your-work-life-balance/POST (from https://www.careercomfort.co.in/how-to-make-your-work-life-balance/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/how-to-make-your-work-life-balance/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/how-to-make-your-work-life-balance/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/why-is-participation-in-employee-engagement-important/e,baseURI (from https://www.careercomfort.co.in/why-is-participation-in-employee-engagement-important/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/why-is-participation-in-employee-engagement-important/GET (from https://www.careercomfort.co.in/why-is-participation-in-employee-engagement-important/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/why-is-participation-in-employee-engagement-important/Edge/ (from https://www.careercomfort.co.in/why-is-participation-in-employee-engagement-important/)
+21:40:06	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=23278
+21:40:06	Warning: 	File has moved from https://www.careercomfort.co.in/?p=23278 to https://www.careercomfort.co.in/why-is-participation-in-employee-engagement-important/
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/why-is-participation-in-employee-engagement-important/POST (from https://www.careercomfort.co.in/why-is-participation-in-employee-engagement-important/)
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/why-is-participation-in-employee-engagement-important/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/why-is-participation-in-employee-engagement-important/)
+21:40:06	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=23276
+21:40:06	Warning: 	File has moved from https://www.careercomfort.co.in/?p=23276 to https://www.careercomfort.co.in/how-to-create-a-work-from-home-environment/
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/how-to-create-a-work-from-home-environment/POST (from https://www.careercomfort.co.in/how-to-create-a-work-from-home-environment/)
+21:40:06	Warning: 	Moved Permanently for https://www.careercomfort.co.in/?p=22055
+21:40:06	Warning: 	File has moved from https://www.careercomfort.co.in/?p=22055 to https://www.careercomfort.co.in/disclaimer-2/
+21:40:06	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/disclaimer-2/POST (from https://www.careercomfort.co.in/disclaimer-2/)
+21:40:06	Warning: 	File not parsed, looks like binary: https://www.careercomfort.co.in/wp-content/plugins/revslider/public/assets/css/openhand.cur
+21:40:06	Warning: 	File not parsed, looks like binary: https://www.careercomfort.co.in/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+21:40:06	Warning: 	Retry after error 409 (Conflict) at link https://www.careercomfort.co.in/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.3 (from https://www.careercomfort.co.in/)
+21:40:06	Warning: 	Retry after error 409 (Conflict) at link https://www.careercomfort.co.in/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.3 (from https://www.careercomfort.co.in/)
+21:40:06	Warning: 	Retry after error 409 (Conflict) at link https://www.careercomfort.co.in/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.9.3 (from https://www.careercomfort.co.in/)
+21:40:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.careercomfort.co.in/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.3 (from https://www.careercomfort.co.in/)
+21:40:06	Error: 	"Conflict" (409) after 2 retries at link https://www.careercomfort.co.in/xmlrpc.php?rsd (from https://www.careercomfort.co.in/)
+21:40:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.careercomfort.co.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careercomfort.co.in%2Fabout%2F (from https://www.careercomfort.co.in/about/)
+21:40:06	Warning: 	Retry after error 409 (Conflict) at link https://www.careercomfort.co.in/xmlrpc.php (from https://www.careercomfort.co.in/all-services/)
+21:40:06	Warning: 	Moved Permanently for https://www.careercomfort.co.in/all-services/"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw=="
+21:40:06	Warning: 	File has moved from https://www.careercomfort.co.in/all-services/"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==" to https://www.careercomfort.co.in/all-services/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==
+21:40:07	Error: 	"Not Found" (404) at link https://cdn-ikplgid.nitrocdn.com/CBnPWTxXvlQldqPwhUtLUzGDtuHrPyuF/assets/static/optimized/rev-07d5d90/www.careercomfort.co.in/combinedCss/openhand.cur (from https://cdn-ikplgid.nitrocdn.com/CBnPWTxXvlQldqPwhUtLUzGDtuHrPyuF/assets/static/optimized/rev-07d5d90/www.careercomfort.co.in/combinedCss/nitro-min-noimport-1c0c0ebea585d95c7a702b698125e162-stylesheet.css)
+21:40:07	Error: 	"Not Found" (404) at link https://cdn-ikplgid.nitrocdn.com/CBnPWTxXvlQldqPwhUtLUzGDtuHrPyuF/assets/static/optimized/rev-07d5d90/www.careercomfort.co.in/combinedCss/closedhand.cur (from https://cdn-ikplgid.nitrocdn.com/CBnPWTxXvlQldqPwhUtLUzGDtuHrPyuF/assets/static/optimized/rev-07d5d90/www.careercomfort.co.in/combinedCss/nitro-min-noimport-1c0c0ebea585d95c7a702b698125e162-stylesheet.css)
+21:40:07	Error: 	"Not Found" (404) at link https://cdn-ikplgid.nitrocdn.com/CBnPWTxXvlQldqPwhUtLUzGDtuHrPyuF/assets/static/optimized/rev-07d5d90/www.careercomfort.co.in/assets/coloredbg.png (from https://cdn-ikplgid.nitrocdn.com/CBnPWTxXvlQldqPwhUtLUzGDtuHrPyuF/assets/static/optimized/rev-07d5d90/www.careercomfort.co.in/combinedCss/nitro-min-noimport-1c0c0ebea585d95c7a702b698125e162-stylesheet.css)
+21:40:08	Error: 	"Conflict" (409) after 2 retries at link https://www.careercomfort.co.in/contact/ (from https://www.careercomfort.co.in/)
+21:40:09	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.careercomfort.co.in/wp-content/uploads/redux/custom-fonts/fonts.css?ver=1717603798
+21:40:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.careercomfort.co.in/2022/04/POST (from https://www.careercomfort.co.in/2022/04/)
+21:40:09	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/2022/03/POST (from https://www.careercomfort.co.in/2022/03/)
+21:40:09	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/category/employers/POST (from https://www.careercomfort.co.in/category/employers/)
+21:40:09	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/category/job-seekers/POST (from https://www.careercomfort.co.in/category/job-seekers/)
+21:40:09	Error: 	"Conflict" (409) after 2 retries at link https://www.careercomfort.co.in/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.3 (from https://www.careercomfort.co.in/)
+21:40:09	Error: 	"Conflict" (409) after 2 retries at link https://www.careercomfort.co.in/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.3 (from https://www.careercomfort.co.in/)
+21:40:09	Error: 	"Conflict" (409) after 2 retries at link https://www.careercomfort.co.in/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.9.3 (from https://www.careercomfort.co.in/)
+21:40:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.careercomfort.co.in/xmlrpc.php (from https://www.careercomfort.co.in/all-services/)
+21:40:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.careercomfort.co.in/all-services/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/all-services/"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==")
+21:40:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.careercomfort.co.in/2022/page/2/ (from https://www.careercomfort.co.in/2022/)
+21:40:09	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/2022/POST (from https://www.careercomfort.co.in/2022/)
+21:40:10	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/2022/04/POST (from https://www.careercomfort.co.in/2022/04/)
+21:40:10	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/all-services/%22data:image/gif;base64,R0lGODlhAQABAIABAAAAAP/yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw== (from https://www.careercomfort.co.in/all-services/"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==")
+21:40:12	Error: 	"Not Found" (404) at link https://www.careercomfort.co.in/2022/page/2/POST (from https://www.careercomfort.co.in/2022/page/2/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 11 seconds : 702 links scanned, 516 files written (55322862 bytes overall) [33426710 bytes received at 133174 bytes/sec], 48227044 bytes transferred using HTTP compression in 226 files, ratio 21%, 6.4 requests per connection
+(133 errors, 91 warnings, 0 messages)
